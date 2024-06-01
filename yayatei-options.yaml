@@ -1,0 +1,9 @@
+# === キー配列 ===
+
+use_qwerty_layout:
+  chord_composer/+:
+    alphabet: "qwsedvrfatgpoliknuj;yhcm"
+    algebra:
+      - xlit|edwsqvrfatgikolpnuj;yhcm|kstnaiuoqccKSTNAIUOQCC12|
+      - xform|cc|c|
+      - xform|CC|c|
