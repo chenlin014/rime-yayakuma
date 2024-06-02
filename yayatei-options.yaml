@@ -8,10 +8,13 @@ use_qwerty_layout:
       - xform|cc|c|
       - xform|CC|c|
 
-auto_commit:
+one_two_brief:
   chord_composer/+:
     output_format:
       - "xform/^([a-xA-X]+)$/$1 /"
+      - "xform/^([a-xA-X]+)y$/j$1 /"
+      - "xform/^([a-xA-X]+)z$/j$1/"
+      - "xform/^([a-xA-X]+)yz$/j$1v /"
 
 kana_switch:
   chord_composer/algebra/+:

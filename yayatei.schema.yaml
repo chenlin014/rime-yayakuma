@@ -66,7 +66,7 @@ speller:
   auto_select_unique_candidate: false
 
 translator:
-  dictionary: yayakana
+  dictionary: yayatei
   enable_user_dict: false
 
 punctuator:
@@ -83,5 +83,5 @@ __patch:
   - yayatei-options:/use_qwerty_layout
   #- yayatei-options:/use_dvorak_layout
   #- yayatei-options:/use_colemak_layout
-  - yayatei-options:/auto_commit
+  - yayatei-options:/one_two_brief
   - yayatei-options:/kana_switch
