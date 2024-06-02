@@ -56,7 +56,7 @@ speller:
   auto_select_unique_candidate: false
 
 translator:
-  dictionary: yayahira
+  dictionary: yayakana
   enable_user_dict: false
 
 punctuator:
