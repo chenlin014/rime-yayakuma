@@ -12,3 +12,9 @@ auto_commit:
   chord_composer/+:
     output_format:
       - "xform/^([a-xA-X]+)$/$1 /"
+
+kana_switch:
+  chord_composer/algebra/+:
+    - xform|^y$|\r|
+  key_binder/bindings/+:
+    - { when: always, accept: "\r", toggle: katakana }

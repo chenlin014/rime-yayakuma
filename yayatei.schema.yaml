@@ -13,11 +13,14 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ かな, ABC ]
+    states: [ 日本語, ABC ]
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+  - name: katakana
+    reset: 0
+    states: [ ひらがな, カタカナ ]
 
 engine:
   processors:
@@ -42,7 +45,14 @@ engine:
     - script_translator
     - reverse_lookup_translator
   filters:
+    - simplifier@katakana
     - uniquifier
+
+katakana:
+  opencc_config: katakana.json
+  option_name: katakana
+  tips: none
+  inherit_comment: false
 
 chord_composer:
 
@@ -74,3 +84,4 @@ __patch:
   #- yayatei-options:/use_dvorak_layout
   #- yayatei-options:/use_colemak_layout
   - yayatei-options:/auto_commit
+  - yayatei-options:/kana_switch
