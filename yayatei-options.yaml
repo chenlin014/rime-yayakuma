@@ -4,6 +4,11 @@ use_qwerty_layout:
   chord_composer/+:
     alphabet: "qwsedvrfatgpoliknuj;yhcm"
     algebra:
-      - xlit|edwsqvrfatgikolpnuj;yhcm|kstnaiuoqccKSTNAIUOQCC12|
+      - xlit|edwsqvrfatgikolpnuj;yhcm|kstnaiuoqccKSTNAIUOQCCyz|
       - xform|cc|c|
       - xform|CC|c|
+
+auto_commit:
+  chord_composer/+:
+    output_format:
+      - "xform/^([a-xA-X]+)$/$1 /"

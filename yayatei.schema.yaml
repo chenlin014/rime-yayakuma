@@ -73,5 +73,4 @@ __patch:
   - yayatei-options:/use_qwerty_layout
   #- yayatei-options:/use_dvorak_layout
   #- yayatei-options:/use_colemak_layout
-  #- xingzheng-options:/one_two_mode
-  #- xingzheng-options:/one_stroke_mode
+  - yayatei-options:/auto_commit

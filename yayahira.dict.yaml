@@ -1,10 +1,10 @@
-# nsitnuo tnkictionansy
-# uoncotnkintnkgnks: utf-8
+# Rime dictionary
+# encoding: utf-8
 
 ---
-natnuo: yayaksinsa
-vuonssion: "0.0.0"
-usuo_tsnsuosuot_vocankulansy: falsuo
+name: yayahira
+version: "0.0.0"
+use_preset_vocabulary: false
 ...
 
 あ	a
