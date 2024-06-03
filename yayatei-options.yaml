@@ -21,3 +21,50 @@ kana_switch:
     - xform|^y$|\r|
   key_binder/bindings/+:
     - { when: always, accept: "\r", toggle: katakana }
+
+punc_chord:
+  chord_composer/algebra/+:
+    - xform|^nC$|0|
+    - xform|^U$|1|
+    - xform|^KU$|2|
+    - xform|^TKIU$|3|
+    - xform|^ATNQ$|4|
+    - xform|^AK$|5|
+    - xform|^KO$|6|
+    - xform|^TNQ$|7|
+    - xform|^NO$|8|
+    - xform|^TSOQ$|9|
+    - xform|^K$|,|
+    - xform|^N$|.|
+    - xform|^asqC$|<|
+    - xform|^ASQ$|>|
+    - xform|^kC$|/|
+    - xform|^KOQ$|?|
+    - xform|^KS$|;|
+    - xform|^TN$|:|
+    - xform|^sC$|'|
+    - xform|^TS$|"|
+    - xform|^S$|\|
+    - xform/^O$/|/
+    - xform|^NS$|`|
+    - xform|^SI$|~|
+    - xform|^AQ$|!|
+    - xform|^NQ$|@|
+    - xform|^IUO$|#|
+    - xform|^NUQ$|%|
+    - xform|^NIU$|$|
+    - xform|^IO$|^|
+    - xform|^TO$|&|
+    - xform|^AU$|*|
+    - xform|^qC$|(|
+    - xform|^Q$|)|
+    - xform|^uC$|-|
+    - xform|^UO$|_|
+    - xform|^SO$|+|
+    - xform|^kuC$|=|
+    - xform|^tC$|[|
+    - xform|^T$|]|
+    - xform|^asC$|{|
+    - xform|^AS$|}|
+    - xform|^Iz$|\n|
+    - xform|^iy$| |
