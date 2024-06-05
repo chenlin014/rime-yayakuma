@@ -24,4 +24,47 @@ kana_switch:
 
 punc_chord:
   chord_composer/algebra/+:
+    - xform|^C$|0|
     - xform|^E$|1|
+    - xform|^F$|2|
+    - xform|^EF$|3|
+    - xform|^G$|4|
+    - xform|^EG$|5|
+    - xform|^FG$|6|
+    - xform|^EFG$|7|
+    - xform|^H$|8|
+    - xform|^EH$|9|
+    - xform|^FH$|+|
+    - xform|^EFH$|-|
+    - xform|^GH$|*|
+    - xform|^EGH$|/|
+    - xform|^FGH$|=|
+    - xform|^EFGH$|#|
+    - xform|^D$| |
+    - xform|^CD$|\n|
+    - xform|^DE$|.|
+    - xform|^DF$|,|
+    - xform|^DEG$|:|
+    - xform|^DEF$|;|
+    - xform|^DG$|?|
+    - xform|^DH$|!|
+    - xform|^DFG$|\|
+    - xform/^DEH$/|/
+    - xform|^DEFG$|$|
+    - xform|^DFH$|&|
+    - xform|^DEFH$|_|
+    - xform|^DGH$|^|
+    - xform|^DEGH$|%|
+    - xform|^DFGH$|~|
+    - xform|^DEFGH$|@|
+    - xform|^CE$|[|
+    - xform|^CH$|]|
+    - xform|^CF$|(|
+    - xform|^CG$|)|
+    - xform|^CFG$|'|
+    - xform|^CEH$|"|
+    - xform|^CEG$|<|
+    - xform|^CFH$|>|
+    - xform|^CEF$|{|
+    - xform|^CGH$|}|
+    - xform|^CEFGH$|`|
