@@ -3,7 +3,7 @@
 
 ---
 name: shintei
-version: "0.3.0"
+version: "0.3.1"
 use_preset_vocabulary: false
 ...
 
@@ -115,7 +115,7 @@ use_preset_vocabulary: false
 誰	jBCkFiN
 哈	jtENDN
 當	jAnGoTtEGuN
-向	jCDtskN
+向	jBCDskN
 家	jAkFGuN
 問	jCnkN
 之	jBk
@@ -271,7 +271,7 @@ use_preset_vocabulary: false
 線	jCskFGuoNAnd
 手	jnts
 黃	jskdEBDtkduN
-道	jBkGioCDtsk
+道	jBkGioBCDsk
 米	jACD
 座	jABkENDtoN
 豬	jBCtkGiu
@@ -298,8 +298,8 @@ use_preset_vocabulary: false
 交	jCkuNtkd
 李	jBCEFo
 笑	jCdFnt
-自	jCDtsk
-邊	jBkEFuoNAkdFiu
+自	jBCDsk
+邊	jBkEFGuoAkdFiu
 型	jDGHBtoN
 黑	jABntEFntkd
 慢	jCtsdEHABntEGu
@@ -511,7 +511,7 @@ use_preset_vocabulary: false
 雪	jCtskEFu
 局	jBCsHt
 雲	jCtskEFBtk
-噢	jtEFuoNACDNT
+噢	jtEFGuoACDNT
 整	jBCNDFo
 傻	jCtFGuotkFio
 華	jABEABFH
@@ -549,7 +549,7 @@ use_preset_vocabulary: false
 鬼	jBCsk
 修	jCtuCsdGiT
 試	jBCkEFGiuAC
-謝	jBCkEFiuoNABC
+謝	jBCkEFGiuoABC
 麪	jBCENnH
 僅	jCtiuotuoN
 層	jBCsGoABntEH
@@ -590,8 +590,8 @@ use_preset_vocabulary: false
 停	jCtFuBnsFGHi
 合	jDtEt
 軍	jBnsoT
-身	jCDtskd
-奧	jCDtskFBskdNT
+身	jBCDskd
+奧	jBCDskFBskdNT
 章	jABsEHsk
 科	jBskEGHsk
 倆	jCtEDtEN
@@ -628,7 +628,7 @@ use_preset_vocabulary: false
 舊	jABFiNCDsd
 乾	jskEHDsiT
 工	jAC
-咱	jtEFuoN
+咱	jtEFGuo
 詞	jBCkHDN
 刀	jBtd
 喔	jtFGoCDd
@@ -721,7 +721,7 @@ use_preset_vocabulary: false
 保	jCtNBC
 唐	jABkEFut
 雞	jBCnFiuontFiN
-夏	jDEFuoNCsd
+夏	jDEFGuoCsd
 莫	jABEHnt
 硬	jBdEADiuN
 寒	jAkGHitkEGH
@@ -743,7 +743,7 @@ use_preset_vocabulary: false
 戲	jABndEBsdEuo
 寄	jAkNTABCdN
 古	jskN
-首	jBsdEFuoN
+首	jBsdEFGuo
 思	jBDtkFoN
 橋	jBCFCtkN
 燈	jntkEGiutGio
@@ -751,7 +751,7 @@ use_preset_vocabulary: false
 亮	jCkNBnsFuNT
 干	jDuo
 屬	jBCsHiTCnGiuN
-窮	jAkdEFiuoNBCDk
+窮	jAkdEFGiuoBCDk
 粉	jACDuNBtd
 爆	jntkEHtkHiT
 韓	jskEHtEioN
@@ -873,7 +873,7 @@ use_preset_vocabulary: false
 富	jAkEtEGuN
 姓	jBtsEoNT
 料	jACDEGHsk
-嘎	jtECDtskEuo
+嘎	jtEBCDskEuo
 結	jCskioNt
 閃	jCnkEN
 咬	jtFutkiuN
@@ -1085,7 +1085,7 @@ use_preset_vocabulary: false
 敏	jDsHuTDkd
 義	jnskoNTDsk
 棒	jBCiuoNAC
-臭	jCDtskNTs
+臭	jBCDskNTs
 響	jABDntoABsEH
 聞	jCnkFGiN
 拆	jDdGTs
@@ -1179,7 +1179,7 @@ use_preset_vocabulary: false
 禮	jACkEHtGio
 容	jAkdENt
 輝	jAniNTBnsoT
-射	jCDtskdFGH
+射	jBCDskdFGH
 智	jDsdNAD
 索	jskGoTCsk
 聚	jBCtdEGuBCtkd
@@ -1215,7 +1215,7 @@ use_preset_vocabulary: false
 堆	jtsFiN
 赴	jBnkdEu
 載	jtsoTDsk
-躲	jCDtskdFuNTBC
+躲	jBCDskdFuNTBC
 孟	jCDsGHiNT
 抵	jDdFoNTs
 甜	jCntdGHi
@@ -1269,7 +1269,7 @@ use_preset_vocabulary: false
 蛇	jBtkdHuBD
 寺	jtsFGH
 購	jCDnskGHiCtkoN
-導	jBkGioCDtskFGH
+導	jBkGioBCDskFGH
 飲	jACDdEiT
 噴	jtuoskEFuoT
 虛	jABndEGiN
@@ -1522,7 +1522,7 @@ use_preset_vocabulary: false
 廖	jABkFHTDtGiT
 刺	jBCFuNBt
 冠	jBnsEFBDdFGH
-躺	jCDtskdHTCtkN
+躺	jBCDskdHTCtkN
 舍	jDtFiNT
 鑫	jDtdEiNDtd
 蓮	jABGuns
@@ -1782,7 +1782,7 @@ use_preset_vocabulary: false
 啃	jtFonk
 漸	jsdoTBn
 耗	jBCDdHTBDnkd
-息	jCDtskFoN
+息	jBCDskFoN
 伍	jCtFHB
 塘	jtsGHuCDkN
 壽	jtsdGtFGH
@@ -1913,11 +1913,11 @@ use_preset_vocabulary: false
 薰	jABFNTCDiuNTz
 映	jADFuNnt
 粵	jBCskGiuoAd
-鼻	jCDtskEGuNDEFN
+鼻	jBCDskEGuNDEFN
 泵	jBdHiT
 銷	jDtdHTnk
 育	jCkGuNnk
-澳	jsdEFuoNACDNT
+澳	jsdEFGuoACDNT
 陞	jBCtFABoN
 候	jCtuBEio
 堅	jCnsdEGuts
@@ -2703,7 +2703,7 @@ use_preset_vocabulary: false
 徹	jBnkFunkEiu
 凶	jtkdGuoN
 胺	jnkHuBts
-廈	jABkECDtskFio
+廈	jABkEBCDskFio
 掘	jDdFGoBtskEuN
 茗	jABEFTt
 絨	jCskEuont
@@ -2748,7 +2748,7 @@ use_preset_vocabulary: false
 悉	jBskdFoN
 掂	jDdGHuDkN
 菁	jABuoNnk
-鎳	jDtdEFuoNBC
+鎳	jDtdEFGuoBC
 冶	jABDGuNt
 絆	jCskiuoT
 嘔	jtFoTtN
@@ -2911,7 +2911,7 @@ use_preset_vocabulary: false
 茬	jABNTkoN
 濾	jsdGHiTBDtkFoN
 珂	jBCDFGHit
-嗅	jtEFuoNnto
+嗅	jtEFGuonto
 簫	jCdEFuCDtdGiuoN
 佰	jCtEBCtsk
 滇	jsduoCDskduN
@@ -3009,7 +3009,7 @@ use_preset_vocabulary: false
 攏	jDdEiuoN
 聳	jBnkENCsFGiN
 燭	jntkGHNTCnGiuN
-襖	jBDndEFuoNACDNT
+襖	jBDndEFGuoACDNT
 臘	jnkHoTtkdHoT
 吏	jntNs
 堰	jtsFoTADGoN
@@ -3306,7 +3306,7 @@ use_preset_vocabulary: false
 葡	jABFTCtskd
 仄	jDntkEN
 噯	jtFGTCtsFio
-溴	jsdEFuoNnto
+溴	jsdEFGuonto
 縛	jCskFiuoNABC
 姝	jBtsEoNAn
 嬸	jBtsHuBskdEGuN
@@ -3379,7 +3379,7 @@ use_preset_vocabulary: false
 礁	jBdFiNntkd
 睏	jADFGoNBC
 瞻	jCDskETtkFGu
-躬	jCDtskdEFGu
+躬	jBCDskdEFGu
 餌	jACDdFGiN
 脖	jnkuoBnsEFo
 襟	jBDndFGBCFHiu
@@ -3449,7 +3449,7 @@ use_preset_vocabulary: false
 喏	jtGHntN
 町	jBDtkFGHi
 麒	jABkdFGi
-熄	jntkEFuoNCts
+熄	jntkEFGuoCts
 烯	jntkiuNntFiuN
 艮	jCDkd
 珉	jBCDEHiuBnt
@@ -3482,7 +3482,7 @@ use_preset_vocabulary: false
 璋	jBCDGHoADuo
 毆	jCnsNtFuoT
 咚	jtFioABD
-癟	jABDkEFuoNCtkGH
+癟	jABDkEFGuoCtkGH
 槳	jBtskdEFTABCFG
 恪	jCtsdFiot
 涌	jsdEGunkd
@@ -3491,7 +3491,7 @@ use_preset_vocabulary: false
 圩	jtsEABC
 噹	jtHTtEGuN
 暑	jADGiu
-軀	jCDtskdFoTtN
+軀	jBCDskdFoTtN
 鈷	jDtduot
 疫	jABDkFuoT
 歉	jBsdEFutkEiT
@@ -3639,7 +3639,7 @@ use_preset_vocabulary: false
 腌	jnkNTADT
 姍	jBtsFuNAB
 橡	jBCETtFGuN
-嗄	jtECDtskFio
+嗄	jtEBCDskFio
 眩	jCDskFuCskd
 弈	jCkEFNtkGH
 珞	jBCDFiot
@@ -3825,7 +3825,7 @@ use_preset_vocabulary: false
 抒	jDdEGuBu
 薊	jABHioTBt
 酌	jABCntFTs
-榭	jBCEFiuoNABC
+榭	jBCEFGiuoABC
 鐺	jDtdHTtEGuN
 爍	jntkFGuoNCskdFG
 沅	jsdEFBDd
@@ -3882,7 +3882,7 @@ use_preset_vocabulary: false
 珺	jBCDFGiot
 咂	jtFoTCtkd
 釹	jDtdGoN
-糗	jACDEFuoNnto
+糗	jACDEFGuonto
 摯	jtsiuoTBnskdoNT
 騏	jDtskFGi
 吡	jtEGBD
@@ -4016,7 +4016,7 @@ use_preset_vocabulary: false
 檻	jBCFioTCdGHiNT
 隕	jBCtNCDnsk
 饋	jACDdiNDEFuoT
-餉	jACDdEFuoNt
+餉	jACDdEFGuot
 鈥	jDtduNT
 狙	jDntEFiuo
 惶	jCtsdFGuoNBCD
@@ -4391,7 +4391,7 @@ use_preset_vocabulary: false
 殆	jDEFTBtkN
 鬃	jDnkGiTAkFHiu
 啶	jtHuDFo
-晌	jADEFuoNt
+晌	jADEFGuot
 睫	jCDskECDkFo
 飭	jACDdEoBDt
 鈿	jDtdEGuN
@@ -4442,7 +4442,7 @@ use_preset_vocabulary: false
 窒	jAkdEFi
 翌	jACnFHTABs
 奼	jBtsFBnt
-夔	jBsdEFuoNtkFio
+夔	jBsdEFGuotkFio
 髂	jBCnkHuCsdN
 熏	jCntGHNTCDiuNT
 刈	jtkdGN
@@ -4458,7 +4458,7 @@ use_preset_vocabulary: false
 洧	jsdNTnk
 雇	jCnkdFiN
 閭	jCnkNt
-媳	jBtsEFuoNCts
+媳	jBtsEFGuoCts
 蠹	jDiNBtkdGiuN
 荐	jABNTkEFo
 蟮	jBtkduoTBsdN
@@ -4557,7 +4557,7 @@ use_preset_vocabulary: false
 苒	jABFuNts
 箔	jCdioBCtsk
 鐨	jDtdEFGuCDtEFuoT
-洎	jsdEFuoN
+洎	jsdEFGuo
 輦	jACdFHins
 薆	jABFGTCtsFio
 跤	jntsdFutkiuN
@@ -4735,7 +4735,7 @@ use_preset_vocabulary: false
 銦	jDtdFGoNnt
 鍇	jDtdEGBDFGuoN
 肪	jnkFiu
-馗	jBnskGioCDtsk
+馗	jBnskGioBCDsk
 孺	jCDsFuoNBDnk
 緝	jCskNBCtd
 殮	jDEFTDtEN
@@ -5101,7 +5101,7 @@ use_preset_vocabulary: false
 冨	jBnsEtEGuN
 韞	jABCsNADGHiNT
 蘼	jABGHuBCEFiuN
-螅	jBtkdEFuoNCts
+螅	jBtkdEFGuoCts
 嚯	jtFuoNCtd
 篪	jCdGTABnd
 夊	jDnoz
@@ -5140,7 +5140,7 @@ use_preset_vocabulary: false
 臏	jnkHuAnEFuoT
 鮃	jAnsdEBsuo
 旃	jCkdEoCndFu
-懊	jCtsdEFuoNACDNT
+懊	jCtsdEFGuoACDNT
 涫	jsdHuAnkd
 瀰	jsdEFGutkdiuN
 遽	jBkGHiTBCtk
@@ -5245,7 +5245,7 @@ use_preset_vocabulary: false
 尜	jAnNTAn
 嵋	jDtkFGoCDsk
 佤	jCtEuoT
-鼾	jCDtskEGuNDuo
+鼾	jBCDskEGuNDuo
 鎩	jDtdiuNBCFuoT
 凊	jABDuoNnk
 猷	jBsFGHNTnto
@@ -5325,7 +5325,7 @@ use_preset_vocabulary: false
 讜	jBCkHTCDiuNT
 劾	jCkEGHNTDtEGN
 憧	jCtsdGHoACnsEF
-裑	jBDndEFiuoN
+裑	jBDndEFGiuo
 裼	jBDndEHCnGiT
 孿	jBCkFuoCskEFo
 嫠	jCDHTDntkGoN
@@ -5372,7 +5372,7 @@ use_preset_vocabulary: false
 蚓	jBtkdEFGuk
 嗵	jtGuBDkiuT
 嵴	jDtkioDtuT
-憩	jCntdEFuoNCts
+憩	jCntdEFGuoCts
 俁	jCtNnNT
 臚	jnkGHiTBDtkGHiNT
 昝	jCsdEuAD
@@ -5398,7 +5398,7 @@ use_preset_vocabulary: false
 儈	jCtENABntEH
 鷂	jBCnEoNDtkFHiT
 譲	jBCkFuABdEGT
-麝	jABkdEFiuoNABC
+麝	jABkdEFGiuoABC
 沌	jsdGNTBtsk
 勰	jBDtEGNBDtkFoN
 婀	jBtsFGNABCdN
@@ -5559,7 +5559,7 @@ use_preset_vocabulary: false
 鮒	jAnsdFNABC
 涿	jsdFGuN
 鼐	jAFBtskdEFiN
-戛	jDEFuoNDsk
+戛	jDEFGuoDsk
 髪	jDnkGiTntEGu
 瑀	jBCDFCtkGuN
 驄	jDtskFGuoCsdFoN
@@ -5823,7 +5823,7 @@ use_preset_vocabulary: false
 弢	jBCDkGuoNBDk
 緙	jCskFHio
 駑	jBtsEGuDtsk
-擤	jDdEFuoNDEFN
+擤	jDdEFGuoDEFN
 匏	jntECnEHiu
 尷	jntdFioTCdGHiNT
 蝴	jBtkduotuT
@@ -6255,7 +6255,7 @@ use_preset_vocabulary: false
 仃	jCtFGHi
 倗	jCtuTnk
 鈁	jDtdFiu
-艏	jnsdGioCDtsk
+艏	jnsdGioBCDsk
 狷	jDntNnk
 肷	jnkEiT
 鯖	jAnsduoNnk
@@ -6276,7 +6276,7 @@ use_preset_vocabulary: false
 簹	jCdHTtEGuN
 簋	jCdEFiuABntd
 氘	jDntsdEFNz
-邉	jBkEFuoNAkdN
+邉	jBkEFGuoAkdN
 徦	jBnkGBEGu
 艄	jnsdHTnk
 煺	jntkGuCDkd
@@ -6293,7 +6293,7 @@ use_preset_vocabulary: false
 鈽	jDtdNTCtkd
 釙	jDtdEu
 詆	jBCkFoNTs
-馘	jBsdEFuoNtE
+馘	jBsdEFGuotE
 襦	jBDndFuoNBDnk
 遢	jBkEHACnFHT
 逡	jBkGuNtkFio
@@ -6319,7 +6319,7 @@ use_preset_vocabulary: false
 応	jABkFoN
 愬	jBsdGuoNnkFoN
 滎	jntkuNTBnsHiT
-濞	jsdEFuoNDEFN
+濞	jsdEFGuoDEFN
 窶	jAkdEHiBts
 穸	jAkdEFT
 弾	jBCDkEFGuoNADuo
@@ -6797,7 +6797,7 @@ use_preset_vocabulary: false
 鸀	jABntFTBtkdFHiT
 甡	jDntsEoNT
 盥	jCDsdHiTABntd
-躱	jCDtskdHCFG
+躱	jBCDskdHCFG
 仳	jCtEGBD
 欷	jtkdNTCtkdEiT
 鍜	jDtdGBEGu
@@ -6925,7 +6925,7 @@ use_preset_vocabulary: false
 捩	jDdFiuTnto
 奓	jntEFTCDn
 哫	jtioNT
-鯓	jAnsdEFiuoN
+鯓	jAnsdEFGiuo
 渼	jsduoTnt
 紘	jCskNTBtk
 豌	jDNAkEFiT
@@ -7069,7 +7069,7 @@ use_preset_vocabulary: false
 瓘	jBCDGHtFiN
 聡	jBCtduNBtkFoN
 鞚	jACsdHiuAC
-榎	jBCECDtskFio
+榎	jBCEBCDskFio
 槻	jBCFHiCDnskd
 鄲	jtNskFGN
 黟	jABntEFCDnEFT
@@ -7078,14 +7078,14 @@ use_preset_vocabulary: false
 労	jBCDtskGoTBDt
 汭	jsdFuNDt
 扆	jCnkdFuBDn
-隩	jBCtEFuoNACDNT
+隩	jBCtEFGuoACDNT
 繐	jCskoTCts
 娩	jBtsETtEGi
 搠	jDdGioBtskuT
 枵	jBCNAd
 螈	jBtkdEuNTBCtskHT
 睥	jCDskFGuosk
-臬	jCDtskFG
+臬	jBCDskFG
 傺	jCtEFiTACkd
 邠	jtkGiNBCt
 鮞	jAnsdEGuT
@@ -7127,7 +7127,7 @@ use_preset_vocabulary: false
 艶	jADGNDnEHiT
 髎	jBCnkFHTDtGiT
 黌	jCDsdiuNBDtkduN
-躰	jCDtskdFGD
+躰	jBCDskdFGD
 鱧	jAnsdEHtGio
 麈	jABkdoBCD
 淏	jsdEHDNT
@@ -7261,7 +7261,7 @@ use_preset_vocabulary: false
 阼	jBCtEoDk
 牂	jBtskduoT
 姞	jBtsioNt
-垧	jtsEFuoNt
+垧	jtsEFGuot
 逹	jBkoNnskd
 栭	jBCEGuT
 砒	jBdEGBD
@@ -7312,7 +7312,7 @@ use_preset_vocabulary: false
 鰰	jAnsdFHuACnsd
 憡	jCtsdFiBCFuN
 烔	jntkFuNDN
-燠	jntkEFuoNACDNT
+燠	jntkEFGuoACDNT
 濊	jsdFoDHT
 遅	jBkFGonsk
 闀	jCnkiuotkEHiu
@@ -7578,7 +7578,7 @@ use_preset_vocabulary: false
 酎	jABCntFGH
 暠	jADFuCtkN
 鼩	jCDsdHoTCnN
-劓	jCDtskEGuNCDtGN
+劓	jBCDskEGuNCDtGN
 燐	jntkEFHCDnEioN
 涗	jsduNtEGi
 漥	jsdHiutsoN
@@ -7614,7 +7614,7 @@ use_preset_vocabulary: false
 簷	jCdETtkFGu
 鼴	jCDsdHoTADGoN
 魊	jBCskEuotE
-齁	jCDtskEGuNCnN
+齁	jBCDskEGuNCnN
 偊	jCtFCtkGuN
 倞	jCtFutHT
 悆	jDtGuoCts
@@ -7629,7 +7629,7 @@ use_preset_vocabulary: false
 縄	jCskEHADT
 綎	jCskEFGNCioN
 塏	jtsEuNtGio
-垍	jtsEFuoN
+垍	jtsEFGuo
 琀	jBCDENBN
 蒹	jABGioBtuN
 磻	jBdGiuoBDtk
@@ -7876,7 +7876,7 @@ use_preset_vocabulary: false
 宍	jAkFutk
 裃	jBDndiuDEu
 袘	jBDndEoADn
-嬶	jBtsEFuoNDEFN
+嬶	jBtsEFGuoDEFN
 嬾	jBtsFGDnEFuoT
 絘	jCskEGHDnd
 蓇	jABFGuT
@@ -7907,7 +7907,7 @@ use_preset_vocabulary: false
 溽	jsdEiuNTABC
 涊	jsdGiNsFoN
 婥	jBtsEuADuo
-珦	jBCDEFuoNt
+珦	jBCDEFGuot
 輜	jnsHoTBDtk
 碹	jBdHuCDEH
 鯝	jAnsdFGoNskN
@@ -8166,7 +8166,7 @@ use_preset_vocabulary: false
 嘚	jtGuTDFGH
 黰	jABntEFCDskduN
 崱	jDtkEFuoTBt
-鼽	jCDtskEGuNCDtGuoT
+鼽	jBCDskEGuNCDtGuoT
 粍	jACDEGiuT
 瑬	jsdFuBCDo
 瀍	jsdGHutkoN
@@ -8214,7 +8214,7 @@ use_preset_vocabulary: false
 焌	jntkGuNtkFio
 泂	jsdFuNt
 潚	jsdEFuCDtdGiuoN
-奡	jDEFuoNntEFN
+奡	jDEFGuontEFN
 殈	jDEFTCGHiNT
 琭	jBCDEFuAnd
 攉	jDdFuoNCtd
@@ -8247,7 +8247,7 @@ use_preset_vocabulary: false
 坶	jtsHuT
 撙	jDdGoABCntFGH
 艼	jABFGHi
-蒠	jABEFuoNCts
+蒠	jABEFGuoCts
 蒺	jABEGHuDsd
 栁	jBCEFTABn
 碏	jBdiuoAD
@@ -8477,7 +8477,7 @@ use_preset_vocabulary: false
 潽	jsdGioBDtdEH
 寖	jAkioBnsEGu
 縩	jCskEFiTACkd
-墺	jtsEFuoNACDNT
+墺	jtsEFGuoACDNT
 扐	jDdEGN
 栘	jBCEFTCDn
 圁	jBCtsFGu
@@ -8763,7 +8763,7 @@ use_preset_vocabulary: false
 倅	jCtFuDtuo
 徯	jBnkFGTCskdNT
 頴	jBDFHiuACnk
-瘜	jABDkEFuoNCts
+瘜	jABDkEFGuoCts
 憕	jCtsdEGiutGio
 濔	jsdEtkdiuN
 潎	jsdHiTCtkEiu
@@ -9437,7 +9437,7 @@ use_preset_vocabulary: false
 髇	jBCnkFuCtkN
 鵞	jantsEuoACnd
 儓	jCtioNBnsEFi
-臮	jCDtskFNDtEN
+臮	jBCDskFNDtEN
 斶	jBnGHNTCnGiuN
 鈒	jDtdHDt
 鉾	jDtdGuNDts
@@ -9514,7 +9514,7 @@ use_preset_vocabulary: false
 颿	jDtskGuNT
 冓	jABdFuNts
 荂	jABNTDHi
-薁	jABEFuoNACDNT
+薁	jABEFGuoACDNT
 酖	jABCntGoTBDd
 輴	jnsGTskEFuo
 靆	jCtskEFCDkio
@@ -9720,7 +9720,7 @@ use_preset_vocabulary: false
 侲	jCtEiuNT
 僶	jCtGioT
 悁	jCtsdNnk
-夒	jDEFuoNtkFio
+夒	jDEFGuotkFio
 堐	jtsEuNTtsoN
 栔	jtskGiNBC
 揊	jDdEtEGuN
@@ -9809,7 +9809,7 @@ use_preset_vocabulary: false
 睌	jCDskETtEGi
 穟	jBskGuBsFGuN
 箯	jCdFNADiuN
-躾	jCDtskduoTnt
+躾	jBCDskduoTnt
 魌	jBCskFGi
 伭	jCtFuCskd
 畣	jDtEtEGuN
@@ -9863,7 +9863,7 @@ use_preset_vocabulary: false
 唣	jtFGuoNBnt
 颽	jDtkEBsdGuNT
 簗	jCdiotkFG
-齇	jCDtskEGuNABndEFiuo
+齇	jBCDskEGuNABndEFiuo
 猨	jDntFGTntEGu
 猇	jDntGHiT
 粂	jDnoACD
@@ -9978,7 +9978,7 @@ use_preset_vocabulary: false
 煠	jntkiuonFG
 瀸	jsdENCDtkdE
 潠	jsdEHiuskduN
-寱	jAkGiuoNCDtskFG
+寱	jAkGiuoNBCDskFG
 窵	jAkdFHiT
 禗	jACkEGuNCts
 闚	jCnkFHiCDnskd
@@ -10093,7 +10093,7 @@ use_preset_vocabulary: false
 欂	jBCGHCtskdFGH
 磎	jBdFGTCskdNT
 螖	jBtkdFGuT
-郋	jCDtskFGN
+郋	jBCDskFGN
 鑐	jDtdFuoNBDnk
 瘏	jABDkGiu
 泜	jsdFoNTs
@@ -10220,7 +10220,7 @@ use_preset_vocabulary: false
 簥	jCdFCtkN
 傿	jCtEniuNT
 鼫	jCDsdHoTBd
-齉	jCDtskEGuNABdEGT
+齉	jBCDskEGuNABdEGT
 忁	jBnkEHntHiT
 膞	jnkoTABC
 猯	jDntEuNBDnk
@@ -10609,7 +10609,7 @@ use_preset_vocabulary: false
 缹	jDtsEuNntkd
 鯬	jBskFTCHioT
 鬾	jBCskuoBDk
-臲	jCDtskFGDntkEHiu
+臲	jBCDskFGDntkEHiu
 欱	jDtEtEiT
 韱	jDtENCDtkdE
 犿	jDntFuDk
@@ -10669,7 +10669,7 @@ use_preset_vocabulary: false
 鄁	jABDdEGnkFGN
 憢	jCtsdoNtsiNT
 逤	jBkioAnF
-襣	jBDndEFuoNDEFN
+襣	jBDndEFGuoDEFN
 覭	jBnsEHtkEFiuoT
 鼏	jBnsEFuoBtskdEFiN
 鱀	jCDkdGNTBDdHioT
@@ -10748,7 +10748,7 @@ use_preset_vocabulary: false
 蹞	jntsdEGACnk
 咉	jtFuNnt
 巏	jDtkGHtFiN
-嵲	jDtkEFuoNBC
+嵲	jDtkEFGuoBC
 崷	jDtkGoABCnt
 矉	jCDskHuAnEFuoT
 犐	jDtsGuoABDuo
@@ -11095,7 +11095,7 @@ use_preset_vocabulary: false
 穐	jBskETADT
 籏	jCdFiuDsFGi
 鶂	jCDsdEGiACnd
-甈	jCDtskFGDnsk
+甈	jBCDskFGDnsk
 觟	jDniuTtsoN
 凓	jABDGHuNTBC
 湠	jsdEuNntuNT
@@ -11181,7 +11181,7 @@ use_preset_vocabulary: false
 碅	jBdFGoNBsk
 韰	jDkEFTCDtkdE
 蝺	jBtkdFCtkGuN
-螑	jBtkdEFuoNnto
+螑	jBtkdEFGuonto
 黤	jABntEFADT
 峬	jDtkFiuoN
 剬	jDtkEGuTBt
@@ -11267,7 +11267,7 @@ use_preset_vocabulary: false
 茣	jABNDNT
 蘥	jABENCtkGHz
 蕧	jABGuTADFio
-藭	jABHiuCDtskdEFGu
+藭	jABHiuBCDskdEFGu
 櫡	jBCFiBkd
 棜	jBCFiuDtEGH
 檖	jBCGuBsFGuN
@@ -11325,7 +11325,7 @@ use_preset_vocabulary: false
 帗	jCtkdNTBDko
 嶀	jDtkFuoNDHi
 馧	jBskEHADGHiNT
-齀	jCDtskEGuNCDtEuoT
+齀	jBCDskEGuNCDtEuoT
 鰴	jBnkEuNAnsdEiu
 饡	jACDdEoNBDdEFuoT
 艓	jnsdiuonFG
@@ -11334,12 +11334,12 @@ use_preset_vocabulary: false
 澅	jsdEFuBDtkE
 窱	jAkdFNCsdFG
 禭	jACkGuBsFGuN
-闑	jCnkEFuoNBC
+闑	jCnkEFGuoBC
 褽	jBCsFHiuCkEGT
 鵽	jBDkEGuBDkFHiT
 鄪	jBCDkEFNCDnskFGN
 嬐	jBtsENDtEN
-櫋	jBCEFuoNAkdFiu
+櫋	jBCEFGuoAkdFiu
 蛌	jBtkdFGiT
 蟂	jBtkdFHiTBC
 螏	jBtkdEGHuDsd
@@ -11480,7 +11480,7 @@ use_preset_vocabulary: false
 篣	jCdFuBnsFiu
 鼮	jCDsdHoTCioN
 皫	jBCtskGHiuntkd
-鄎	jCDtskFoNBCt
+鄎	jBCDskFoNBCt
 餢	jACDdGHot
 鎭	jDtdEGnuN
 鶢	jBCnEBDkFHiT
@@ -11565,7 +11565,7 @@ use_preset_vocabulary: false
 辴	jtNskEiuNT
 稒	jBskFGoNskN
 鼳	jCDsdHoTCDskNT
-齃	jCDtskEGuNDtT
+齃	jBCDskEGuNDtT
 貛	jDntdGHtFiN
 謥	jBCkFGuoCsdFoN
 痸	jABDkEoNCtkdGN
@@ -11598,8 +11598,8 @@ use_preset_vocabulary: false
 喢	jtFNTCDsd
 斀	jABntFTDkEGu
 嶚	jDtkNTADHT
-躽	jCDtskdFoTADGoN
-軈	jCDtskdGHuCtdFoN
+躽	jBCDskdFoTADGoN
+軈	jBCDskdGHuCtdFoN
 偋	jCtFGoBsdGH
 舮	jnsdFiuT
 浲	jsdFiotsk
@@ -11652,7 +11652,7 @@ use_preset_vocabulary: false
 磤	jBdGTAFuoT
 蛂	jBtkdNTBDko
 螇	jBtkdFGTCskdNT
-嚊	jtEFuoNDEFN
+嚊	jtEFGuoDEFN
 巆	jDtkuNTtN
 巀	jDtkHTCtdEuo
 嵣	jDtkGHuCDkN
@@ -11690,7 +11690,7 @@ use_preset_vocabulary: false
 柖	jBCGiNt
 趹	jntsdGnt
 嶜	jDtkGNTBDdEH
-矏	jCDskEFuoNAkdFiu
+矏	jCDskEFGuoAkdFiu
 顉	jDtdFHuT
 鮴	jAnsdFNBC
 謯	jBCkGHiTCDskd
@@ -12050,7 +12050,7 @@ use_preset_vocabulary: false
 橨	jBCuoABEFuoT
 榽	jBCFGTCskdNT
 骿	jBCnkGioAB
-齂	jCDtskEGuNCDkio
+齂	jBCDskEGuNCDkio
 鶞	jBnuoCDskFHiT
 貗	jDntdEHiBts
 讄	jBCkEGuNBDtkEGuN
@@ -12403,7 +12403,7 @@ use_preset_vocabulary: false
 耡	jBCDdHTCDskdEGN
 饟	jACDdFuABdEGT
 欸	jBtkEioDnd
-厦	jDntkECDtskFio
+厦	jDntkEBCDskFio
 厮	jDntkFGiBn
 亲	jABsFG
 届	jBCsEGiuN
@@ -12586,7 +12586,7 @@ use_preset_vocabulary: false
 屝	jBCsEFiuN
 嗧	jBDtNCtkGH
 紬	jCskEGiuN
-嚮	jABDntoCDtskN
+嚮	jABDntoBCDskN
 殻	jtsdGoTCntkFuoT
 搆	jDdGHiCtkoN
 搯	jDdFGTCDsd
@@ -13140,7 +13140,7 @@ use_preset_vocabulary: false
 郧	jtEFuoTBCtz
 跃	jntsdFnt
 躜	jntsdEoNBDdEFuoTz
-响	jtEFuoNt
+响	jtEFGuot
 哗	jtFNBDuo
 囵	jBCtsENBD
 呛	jtENBD
@@ -13298,7 +13298,7 @@ use_preset_vocabulary: false
 侥	jCtEuontd
 贷	jCtEFGiuCDnskz
 舆	jCDsdoTtkz
-躯	jCDtskdFoTtkd
+躯	jBCDskdFoTtkd
 侦	jCtEuCDnskz
 俣	jCtNDNT
 侣	jCtNt
@@ -13315,7 +13315,7 @@ use_preset_vocabulary: false
 货	jCtEGCDnskz
 储	jCtFGuBkdz
 侪	jCtFGiuCDt
-奥	jCDtskEFHnt
+奥	jBCDskEFHnt
 鹪	jCtdiuNTACndz
 偻	jCtEFHBts
 伫	jCtHuD
@@ -13347,7 +13347,7 @@ use_preset_vocabulary: false
 饿	jACDdoNTDskz
 饰	jACDdEoCtkdz
 饬	jACDdEoBDtz
-饷	jACDdEFuoNtz
+饷	jACDdEFGuotz
 馊	jACDdEFiokEGuz
 丛	jDtEND
 耸	jDtENBCtd
@@ -13463,7 +13463,7 @@ use_preset_vocabulary: false
 锻	jDtdFNBCDdFuoTz
 锽	jDtdFGuoNBCDz
 钏	jDtdEFNz
-镍	jDtdEFuoNBCz
+镍	jDtdEFGuoBCz
 锥	jDtdFiNz
 铂	jDtdFGuoNz
 锦	jDtdFGuoNCtkdz
@@ -13841,7 +13841,7 @@ use_preset_vocabulary: false
 闯	jCnkEuoNz
 阀	jCnkFNDskz
 鹰	jABDkFNCtdFHiT
-瘪	jABDkEFuoNDtEG
+瘪	jABDkEFGuoDtEG
 阋	jCnkEFioBDd
 闪	jCnkENz
 疮	jABDkENADkd
@@ -14933,7 +14933,7 @@ use_preset_vocabulary: false
 诜	jBCkEoNBDdz
 讫	jBCkEondz
 诿	jBCkGuoBtsz
-谢	jBCkEFiuoNABCz
+谢	jBCkEFGiuoABCz
 谀	jBCkEFioDtz
 讹	jBCkFNBDz
 𫍲	jBCkEFiokEGuz
@@ -14998,7 +14998,7 @@ use_preset_vocabulary: false
 阗	jCnkuoCDskduNz
 闿	jCnkEuNADk
 瘿	jABDkEFuoTCDnskGoNz
-𫔶	jCnkEFuoNBCz
+𫔶	jCnkEFGuoBCz
 阏	jCnkFiuDtEGHz
 阁	jCnkFiotz
 阍	jCnkFoNTADz
@@ -15454,7 +15454,7 @@ use_preset_vocabulary: false
 𠸦	jtoNTCDsk
 𱫻	jntkFGoABEiuT
 𥆟	jCDskGotEGi
-𫗻	jBsdEFuoNskuT
+𫗻	jBsdEFGuoskuT
 𪂯	jACndGoNskN
 𪢰	jBCtsNCDnskGiuoT
 蕽	jABEHBtEiuNT
@@ -15770,7 +15770,7 @@ use_preset_vocabulary: false
 𫛈	jACndEFoBCnd
 𬨻	jBkFGDnu
 𪲍	jBCGioCtkd
-𩠵	jBsdEFuoNtkFG
+𩠵	jBsdEFGuotkFG
 𪯞	jCkdEiuDtuo
 𧦕	jBCkuoCntk
 𠽅	jtiuoNCDsd
@@ -15828,7 +15828,7 @@ use_preset_vocabulary: false
 𪩔	jDtkGoskEuo
 𧔛	jBtkdEGiuBsdFGN
 𠻥	jtHoTADFG
-𡏣	jtsEFuoNnto
+𡏣	jtsEFGuonto
 𬏨	jABDkNCGNT
 𩆠	jCtskGHBnsEFT
 𥰆	jCdFuBnsFiuN
@@ -15858,7 +15858,7 @@ use_preset_vocabulary: false
 𫸶	jBCDkGiNCDFGN
 𨆹	jntsdGHioBCN
 𥼖	jACDEoAnkEiu
-𦤱	jCDtskNTBDkFuo
+𦤱	jBCDskNTBDkFuo
 𫎄	jDNABntdFGHiz
 𫵢	jADGNBtskEuN
 𪭽	jDdGHutso
@@ -15914,7 +15914,7 @@ use_preset_vocabulary: false
 𤳽	jBDtkEiuoN
 𬑰	jDsdiuoT
 𡀳	jtFGiotuoT
-𡕵	jDEFuoNtkHi
+𡕵	jDEFGuotkHi
 𪝄	jCtNTDHiz
 𪺹	jDntGoNBDk
 袊	jBDndENBk
@@ -15968,7 +15968,7 @@ use_preset_vocabulary: false
 𫰣	jBtsFHun
 𬔦	jABsioDdGiuoT
 𨨨	jDtdGuTDFo
-𨉞	jCDtskdoNtkFio
+𨉞	jBCDskdoNtkFio
 𥈿	jCDskFHCDnsk
 𨢼	jABCntFGuotkFio
 𬦳	jntsdEiNT
@@ -15989,9 +15989,9 @@ use_preset_vocabulary: false
 𬏽	jABDkGHNTCDnsk
 𢵶	jDdEiNBntGuoN
 𧼍	jBnkdEFuntk
-𫗹	jBsdEFuoNAkGiuoT
+𫗹	jBsdEFGuoAkGiuoT
 𡋀	jtsFHun
-𪖠	jCDtskEGuNBtdN
+𪖠	jBCDskEGuNBtdN
 雴	jCtskGHo
 𬈼	jsdFNBnsFiN
 泍	jsdFGD
@@ -16043,7 +16043,7 @@ use_preset_vocabulary: false
 𬏊	jBDtkoCDkd
 𥪞	jABsEHCtkEN
 𦝌	jnkiotsGuN
-𬹰	jCDtskEGuNABsN
+𬹰	jBCDskEGuNABsN
 𫏻	jACDGoNns
 𠵩	jtEHBC
 𥒃	jBdoNADn
@@ -16056,7 +16056,7 @@ use_preset_vocabulary: false
 𢰺	jDdETCDnsk
 𣙸	jDtsHTBtskEuN
 𠻽	jtFGDsHuT
-𫇍	jCDtskNTBskdEGuN
+𫇍	jBCDskNTBskdEGuN
 𣠖	jCDHTBCkGiu
 𠿰	jtEFHiDsEGN
 𦜞	jnkiuNskduN
@@ -16086,7 +16086,7 @@ use_preset_vocabulary: false
 𪭚	jCnkdGNtkFH
 眜	jCDskEBC
 𦲿	jABGHNTskT
-𬹯	jCDtskEGuNABiuN
+𬹯	jBCDskEGuNABiuN
 𢇱	jABkuNAd
 𡊳	jtsEoNT
 𱏃	jCtoCDkduT
@@ -16110,7 +16110,7 @@ use_preset_vocabulary: false
 𨦭	jDtdHuDts
 𣘃	jBCGHABDntEN
 𨮉	jDtdFGiotuoT
-𫷇	jCDtskNCkFiuN
+𫷇	jBCDskNCkFiuN
 𥬨	jCdEiuN
 𢈖	jABkECtkoN
 𤋷	jntkiuoNDNT
@@ -16220,7 +16220,7 @@ use_preset_vocabulary: false
 𫪎	jtFioNBNT
 𢶟	jntsEuNBCsk
 𣗌	jBCGuACD
-𡭉	jnskdEFiuoNABC
+𡭉	jnskdEFGiuoABC
 𪣰	jtsGHNTskT
 𢢋	jCtsdEuNCGiT
 埩	jtsETCDk
@@ -16336,11 +16336,11 @@ use_preset_vocabulary: false
 𧄈	jABGuNADHT
 𢯦	jDdFGDtEN
 𨨠	jDtdFTACD
-𠟲	jCDtskGiuoAdGN
+𠟲	jBCDskGiuoAdGN
 𫤾	jABDiT
 𢠿	jCtsdFGTAiuNT
 𨤧	jACnsEFDnHT
-𲄱	jCDtskdFioTtN
+𲄱	jBCDskdFioTtN
 㓟	jACsGN
 𢶂	jDdGuBnsoT
 𥖖	jBdFHoDdEHiT
@@ -16362,11 +16362,11 @@ use_preset_vocabulary: false
 𬈿	jsdHuABntdFGHiz
 𤼕	jABDkFGiNADEuo
 𢀨	jCnsGCDkdFGN
-𬡢	jBDndEFuoNDtNT
+𬡢	jBDndEFGuoDtNT
 𠶢	jtioBDtkd
 𫴮	jADECtEF
 𠑋	jDtiuNBCDGH
-𪬤	jCDtskFoNCtsF
+𪬤	jBCDskFoNCtsF
 𪿐	jDsdoTnkGN
 𣠳	jBDkGtkFGu
 𡂂	jtFGuBN
@@ -16458,7 +16458,7 @@ use_preset_vocabulary: false
 𫽟	jDdFuoTBtdN
 𡦮	jCDsGHtGio
 𦅮	jCskENtkduo
-𨈒	jCDtskdEu
+𨈒	jBCDskdEu
 𡶁	jDtkGNTBtsk
 𠫆	jDntkEHBtkN
 𪳨	jBnsuNADFG
@@ -16549,7 +16549,7 @@ use_preset_vocabulary: false
 㮔	jBCFNTADEF
 𣉳	jADGHNTtsGuN
 𢹦	jDdENDtEiT
-𫏪	jCDtskdGiuN
+𫏪	jBCDskdGiuN
 𡚄	jntEuskEuo
 𫵨	jBCsGioCtkdGN
 㴥	jsdEuNAnuT
@@ -16598,11 +16598,11 @@ use_preset_vocabulary: false
 𠻇	jtFGnF
 𧤂	jtsuNDniuT
 𧜙	jBDndFHCDnsk
-𦤠	jCDtskNTntuNT
+𦤠	jBCDskNTntuNT
 𠯦	jtGNTBtd
 𬫀	jACnsEFtsoN
 𣿌	jsdGuDtT
-𫺱	jCDtskFoNDkHi
+𫺱	jBCDskFoNDkHi
 𠟹	jBtdEGukFHuT
 𠖈	jBnsEFDEu
 𧑅	jBtkdGiuTDskT
@@ -16626,7 +16626,7 @@ use_preset_vocabulary: false
 𢭗	jDdoCDkd
 𤴬	jABDkGiN
 𨦦	jDtdHuDFGH
-𫇊	jCDtskHuCDs
+𫇊	jBCDskHuCDs
 𨁲	jntsdNADnd
 浽	jsdFGTBts
 噽	jtsdNCDtkE
@@ -16704,7 +16704,7 @@ use_preset_vocabulary: false
 𫢠	jCtGHBCs
 𢳁	jABkEFiuNnts
 𥷺	jCdFGuADNT
-𨉑	jCDtskdNBCD
+𨉑	jBCDskdNBCD
 𪳋	jBCHiBFoN
 𬜕	jnsdFuNTCFuNT
 沲	jsdEoADn
@@ -16808,7 +16808,7 @@ use_preset_vocabulary: false
 𣇫	jADEHBC
 堛	jtsEtEGuN
 𫘴	jBCnkFGoCDd
-𩠱	jBsdEFuoNCHiuT
+𩠱	jBsdEFGuoCHiuT
 𧀜	jABuNTBCnEFio
 𥢂	jBskGHuBCFG
 𢳞	jDdFGiNCtkoN
@@ -16904,7 +16904,7 @@ use_preset_vocabulary: false
 𤹔	jABDkFuBnsFiu
 𠗸	jABDFHCDnsk
 𤓆	jntkGHCdGHiNT
-𫌗	jBDndFGuCDtskdFGH
+𫌗	jBDndFGuBCDskdFGH
 𪩮	jADndoNtkFioz
 𦏒	jnskNTABEGuN
 𠸗	jBDndGiNskN
@@ -16930,7 +16930,7 @@ use_preset_vocabulary: false
 𤾯	jBCtskioDtEN
 𫽘	jDdFGtEGN
 𠚢	jABntFuoBtskEuN
-𨉓	jCDtskdENCtkEN
+𨉓	jBCDskdENCtkEN
 𣒲	jBCHuDts
 𫆢	jtsuNCsduT
 𪛇	jDnGioTBCtsN
@@ -17255,7 +17255,7 @@ use_preset_vocabulary: false
 𪦼	jCDsFGuoNCno
 𫣸	jCtGoADioN
 𢁋	jADndFGNtkFio
-𪗀	jCDtskEGuNnEiT
+𪗀	jBCDskEGuNnEiT
 𫰤	jBtsEFH
 𧒉	jDntkEABCGiuN
 𪟽	jDkHi
@@ -17347,7 +17347,7 @@ use_preset_vocabulary: false
 𧒌	jBtkdioNTCsdN
 𪡊	jtEiNT
 䒜	jABEoN
-𪥌	jCDtskENnt
+𪥌	jBCDskENnt
 𠲓	jtFioDtsd
 𫠹	jkdGuNBDEG
 𬧺	jnsFTCnGuoN
@@ -17440,7 +17440,7 @@ use_preset_vocabulary: false
 𫵫	jBCsEFHBDEG
 𨬉	jDtdoNCtd
 𢄩	jCtkdiuoBnsFiuN
-𬳖	jBsdEFuoNCntsGHT
+𬳖	jBsdEFGuoCntsGHT
 𫁎	jAkdFHCDsT
 𥈢	jCDskuoTnt
 𨃺	jntsdFuoCtkEN
@@ -17680,7 +17680,7 @@ use_preset_vocabulary: false
 𢫛	jDdEFGs
 𦡮	jnkGioBDtdEH
 𪁃	jCtEoNACnd
-𨻬	jBCtEFuoNnto
+𨻬	jBCtEFGuonto
 𣞍	jBCGHNTBkd
 𣃺	jCkduNDtN
 𤒙	jDtGiTBnskdiuNT
@@ -17733,7 +17733,7 @@ use_preset_vocabulary: false
 𢴊	jDdGuBCtk
 𥒥	jBdEFTCDn
 𩄰	jCtskEBtiuNT
-𩼈	jAnsdEFuoNBskdNT
+𩼈	jAnsdEFGuoBskdNT
 㖧	jtFoNTAD
 𡁽	jtFGDtFG
 𪡱	jtEFGiAnEGiuT
@@ -17749,7 +17749,7 @@ use_preset_vocabulary: false
 𣖠	jBCGHBtskEuN
 𬌘	jBntdEuNntsEuo
 𢴩	jDdFiCDkEF
-䴈	jCDtskEFHntFHiT
+䴈	jBCDskEFHntFHiT
 𢥣	jCtsdFiCnkuT
 𨫪	jDtdiuotFHi
 𪢜	jtEiNCtskd
@@ -17794,7 +17794,7 @@ use_preset_vocabulary: false
 𧐸	jBtkdFiTtGiT
 𬑑	jCDskGiuBD
 𬇆	jBDnkdoNtsiNT
-𩠳	jBsdEFuoNBCFiN
+𩠳	jBsdEFGuoBCFiN
 𬮙	jCnkEBDt
 𤡚	jDntEFiuBntEGi
 𢵷	jDdHutGN
@@ -17873,7 +17873,7 @@ use_preset_vocabulary: false
 𫋙	jBtkdEFGuBtkGiuN
 𢫗	jntsFGuoN
 𥐨	jBdEHT
-𠿱	jtGuBsdEFuoN
+𠿱	jtGuBsdEFGuo
 𪺵	jDtsEFiuNCts
 𣞂	jBCFiBnsFiuN
 𧺁	jAkGiuoCDtuN
@@ -17902,7 +17902,7 @@ use_preset_vocabulary: false
 𪮽	jntsGTBnEFuoT
 𩹪	jAnsdFGoCDsk
 𫵇	jBCsEFuoDnHT
-𩠠	jBsdEFuoNCDGuN
+𩠠	jBsdEFGuoCDGuN
 㭲	jBCuNDtN
 胋	jnkEut
 𬏗	jBskdEGuNABDEiT
@@ -17918,7 +17918,7 @@ use_preset_vocabulary: false
 𠬕	jtsGuNBDndFiuoNz
 恄	jCtsdioNt
 𧜗	jBDndEuoN
-𦤭	jCDtskNTBtiuNT
+𦤭	jBCDskNTBtiuNT
 𫆃	jBtskEiuBCtd
 𡀂	jtFuoNBDtk
 𬐼	jABDEiTBtdo
@@ -17945,7 +17945,7 @@ use_preset_vocabulary: false
 𫼠	jntsoBCD
 𦙥	jnkEFon
 鑟	jDtdioNABntEFuoT
-𥢐	jBskEFuoNsduo
+𥢐	jBskEFGuosduo
 𩅜	jCtskoCDkduT
 𨇀	jntsdGuDHiuT
 𥀌	jACsGHBtkN
@@ -17975,7 +17975,7 @@ use_preset_vocabulary: false
 𥐦	jBdEHu
 𥺖	jACDEFuNt
 𬡮	jBDndFGTAiuNT
-搝	jDdEFuoNnto
+搝	jDdEFGuonto
 𬳠	jBskuNTBskEH
 𣌹	jADGNCDtkE
 𦁢	jCskEuT
@@ -18011,7 +18011,7 @@ use_preset_vocabulary: false
 𤜬	jDntEuN
 𬇉	jCntsoBtd
 捇	jDdoNCDtuN
-㧶	jDdEFiuoN
+㧶	jDdEFGiuo
 𨓐	jBkNBCsk
 𫴇	jAkiusHiT
 𤋾	jntkGHoAD
@@ -18293,7 +18293,7 @@ use_preset_vocabulary: false
 𧜵	jBDndiuoBnsFiuN
 𥌧	jCDskHioTAD
 𫫒	jtEFuCDEH
-𫮐	jtsGioCDtsk
+𫮐	jtsGioBCDsk
 𪲭	jBCoCDEGi
 𡮯	jAnFDtsN
 𢪏	jDdEHz
@@ -18303,7 +18303,7 @@ use_preset_vocabulary: false
 𢤜	jCtsdGontFGN
 𪨈	jntdNBtkd
 𣩸	jBdFuCDnEG
-𣼸	jsdECDtskEuo
+𣼸	jsdEBCDskEuo
 撴	jDdFuCDsEiu
 𧏱	jBtkdFuNntGHiNT
 𠊙	jCtHuCDskd
@@ -18422,7 +18422,7 @@ use_preset_vocabulary: false
 𬑛	jCDskENBFoN
 𩿚	jACndEGHsk
 𠲧	jtEFGiuAC
-𪧻	jCDtskdFGHnskd
+𪧻	jBCDskdFGHnskd
 𧄵	jABENTtkdHoT
 𬐌	jBCtskEiACs
 𩼀	jAnsdFGoNtEioN
@@ -18449,7 +18449,7 @@ use_preset_vocabulary: false
 𧲫	jDntdHDt
 嚉	jtEGiNnskFGH
 𫁅	jDkEFuoTBskGuN
-𦤯	jCDtskNTnEGN
+𦤯	jBCDskNTnEGN
 喯	jtNTskGH
 𣑳	jBCEFGiAn
 𧂁	jABNskEuo
@@ -18581,7 +18581,7 @@ use_preset_vocabulary: false
 𫸏	jABkiuoCkuN
 𫯓	jBCENCDnEFT
 𢢯	jCtsdEuNBCsk
-𪳂	jBCGioCDtsk
+𪳂	jBCGioBCDsk
 𪾀	jBCtskEuotE
 𢱖	jDdGHiBC
 𨀐	jntsdFioABD
@@ -18609,7 +18609,7 @@ use_preset_vocabulary: false
 𢶿	jDdGuskEFuo
 𣙬	jABntkFGCnsG
 𠴜	jtEiskEGu
-𫗷	jBsdEFuoNtFG
+𫗷	jBsdEFGuotFG
 捠	jDdEiuNtk
 𤁠	jsdGuDtsEuN
 𢚸	jBCDGHCts
@@ -18619,7 +18619,7 @@ use_preset_vocabulary: false
 𨙍	jBkEioCtkN
 𤝑	jDntFBk
 𥅘	jCDskETAn
-𨊌	jCDtskdEFHCDnEioN
+𨊌	jBCDskdEFHCDnEioN
 抈	jDduT
 𡍝	jtsGHCtkEN
 𢲭	jDdFGHNTADk
@@ -18673,7 +18673,7 @@ use_preset_vocabulary: false
 𥈳	jCDskHiunto
 𢹫	jtskGiNCEuN
 𣞽	jBCEGiuBsdFGN
-𬛯	jCDtskNTABsEH
+𬛯	jBCDskNTABsEH
 𤆹	jntkGiNT
 𧐾	jBtkdGHotFGN
 𩄔	jCtskEiAndE
@@ -18730,7 +18730,7 @@ use_preset_vocabulary: false
 𩁶	jCtskiT
 𥣒	jBskENBtFoN
 𡆈	jtFiuDsdFHiT
-𪖭	jCDtskEGuNDFGH
+𪖭	jBCDskEGuNDFGH
 𧃶	jABENTDFGuN
 𢴘	jDdENTtskuT
 𪲽	jtkdFGDdGT
@@ -18766,7 +18766,7 @@ use_preset_vocabulary: false
 㫵	jADEFiuN
 𢌎	jABkGHABsdEFo
 𩆏	jCtskGHnFG
-𫗺	jBsdEFuoNBDtEiu
+𫗺	jBsdEFGuoBDtEiu
 𬚁	jnskGioBCnEFio
 𠱉	jtENBnd
 𢸝	jDdioACdEH
@@ -18889,7 +18889,7 @@ use_preset_vocabulary: false
 𦾤	jABENBtFoN
 𢸜	jDdEFHDtsdFGN
 㘋	jtFioTBDkEFuoT
-𬧖	jntsdGuBsdEFuoN
+𬧖	jntsdGuBsdEFGuo
 覵	jCnkuTCDnskd
 𬏪	jABDkHuBts
 𩸘	jAnsdHuAnkd
@@ -19075,7 +19075,7 @@ use_preset_vocabulary: false
 𦅲	jCskGiuTDskT
 𠺵	jtFGiNDskz
 𫇐	jCDdHiBDkE
-𡏘	jtsECDtskFio
+𡏘	jtsEBCDskFio
 𠶘	jABCdNCDnGN
 𢀥	jCnsGtskFGN
 䤠	jDtdFo
@@ -19105,7 +19105,7 @@ use_preset_vocabulary: false
 㐱	jDtGiT
 𫿕	jCkdEiuCntkEF
 𦚭	jnkGiuN
-𫇌	jCDtskNTADT
+𫇌	jBCDskNTADT
 𡃐	jtFiuNADuo
 𣩁	jDEFTDdGT
 嗂	jtFGTDtsEuN
@@ -19122,7 +19122,7 @@ use_preset_vocabulary: false
 𠞹	jBskdFoNBt
 𪴹	jDFotsGuN
 𦀿	jCskFGoBDnkd
-𥽌	jACDGuBsdEFuoN
+𥽌	jACDGuBsdEFGuo
 𠰍	jtoBCD
 𫤄	jCtNTDdFiN
 𠢬	jDsiuontkdEGN
@@ -19277,7 +19277,7 @@ use_preset_vocabulary: false
 𦙤	jnkEGiuT
 𧋇	jBtkdEuNTCs
 𣈞	jADHiuAC
-𨉟	jCDtskdENtGHT
+𨉟	jBCDskdENtGHT
 𤎏	jntkGHiNTDtEN
 𥟌	jBskGHCntkd
 𨄑	jntsdFTtEGuN
@@ -19340,7 +19340,7 @@ use_preset_vocabulary: false
 𰇼	jtGuNntGiT
 𣆏	jADEFuND
 𪁶	jBkFGHACnd
-𩠘	jBsdEFuoNCDnEu
+𩠘	jBsdEFGuoCDnEu
 𢗠	jCtsdGNTBtd
 𨯘	jDtdFNDtEN
 𥻡	jACDFGoCDsk
@@ -19574,7 +19574,7 @@ use_preset_vocabulary: false
 𡅷	jtFGuntsEuo
 𥸁	jCdiuoACdFiN
 𥇸	jCDskEiuNDtk
-𩠴	jBsdEFuoNABntEH
+𩠴	jBsdEFGuoABntEH
 𫔮	jCnkuTz
 𦀹	jCskFGABC
 𪿁	jABsEHntsEFuo
@@ -19714,7 +19714,7 @@ use_preset_vocabulary: false
 𡱩	jDdFBCso
 𠞛	jCnkdFHTACnGN
 𦛍	jnkECtkoN
-𬳚	jBsdEFuoNDdioNT
+𬳚	jBsdEFGuoDdioNT
 𧽇	jADTBnkdEHu
 𨐸	jABsdEGiutGio
 𬦶	jntsdEFiBt
@@ -19740,7 +19740,7 @@ use_preset_vocabulary: false
 淁	jsdGHoBts
 𩅻	jCtskioBkd
 𣼱	jsdFNCtkGuN
-𫺽	jCDtskFoNDGHT
+𫺽	jBCDskFoNDGHT
 𲃪	jntsdFGiuABC
 𧺂	jBkdEFiuoTCDtuN
 𩅘	jCtskGuBCN
@@ -19762,7 +19762,7 @@ use_preset_vocabulary: false
 𬛒	jnkioBkd
 𥉲	jCDskFGoABEiuT
 𬷊	jACndFGiT
-𩠔	jBsdEFuoNBDnkd
+𩠔	jBsdEFGuoBDnkd
 𡫨	jAkFoNDtkEFiuoT
 𢪮	jDdFG
 𪜾	jCtEFiuoBDt
@@ -19925,7 +19925,7 @@ use_preset_vocabulary: false
 䨔	jCtskHTntd
 𫡌	jtiNnskdEHiu
 䳧	jACndFNBEio
-𬳕	jBsdEFuoNCd
+𬳕	jBsdEFGuoCd
 䁛	jCDskFGuo
 𣗓	jCDHTBkd
 𫋩	jBtkdEFiuoTBDiuNT
@@ -20014,7 +20014,7 @@ use_preset_vocabulary: false
 𫘃	jBskEHADEiT
 𩵿	jAnsdEuAd
 𠁙	jCDtkFGuDsEu
-𧔚	jBtkdHiuCDtskdEFGu
+𧔚	jBtkdHiuBCDskdEFGu
 柆	jBCGHo
 𩕆	jABsEHskFHuT
 𤸨	jABDkioBDdHT
@@ -20106,7 +20106,7 @@ use_preset_vocabulary: false
 𥜀	jBCsEGiuTACkEFiuo
 𪨐	jBCsonto
 㵣	jsdEHnEiT
-𦤰	jCDtskNTBEFuoT
+𦤰	jBCDskNTBEFuoT
 𤡌	jDntFuTDEGN
 𠻊	jtGHuskdFiuN
 𡌢	jtsENBN
@@ -20196,7 +20196,7 @@ use_preset_vocabulary: false
 𠷇	jtFiuDsEHT
 𩄲	jCtskGuACD
 𬖆	jCdGHoBCDGH
-𢥷	jCDtskFoNBFo
+𢥷	jBCDskFoNBFo
 𨘘	jBCsEGiuTBCN
 𤮾	jntdGHi
 𣙫	jBCFiABs
@@ -20313,7 +20313,7 @@ use_preset_vocabulary: false
 𬩇	jBkEGNnskNT
 𥘀	jBdEHABdEGT
 𫉸	jABFGHitEiT
-𫗸	jBsdEFuoNskdEH
+𫗸	jBsdEFGuoskdEH
 𥺿	jACDNTABCdN
 䈫	jCdFuoCtkEN
 棦	jBCETCDk
@@ -20386,7 +20386,7 @@ use_preset_vocabulary: false
 𢘝	jCtsdETAn
 𠮿	jtEuN
 𡋦	jtsEBCtsk
-𨊋	jCDtskdGHNTCDnsk
+𨊋	jBCDskdGHNTCDnsk
 唋	jtENBsk
 䆰	jAkdFoTtN
 𪜢	jCkuAD
@@ -20474,7 +20474,7 @@ use_preset_vocabulary: false
 𬁄	jADuotsEiT
 𢠅	jCtsdiuoNCDsd
 𦝥	jnkFNTCDsd
-𩠩	jBsdEFuoNtkdEiu
+𩠩	jBsdEFGuotkdEiu
 𬰖	jCtskEFioBnsEFT
 𢝙	jCtsdEFuNABntd
 𢵳	jDdFGBCFG
@@ -20726,7 +20726,7 @@ use_preset_vocabulary: false
 𠲢	jtNCtkd
 𫢼	jBtkNCtEFGiuz
 蜅	jBtkdFiuoN
-𠽘	jtEFCDtskN
+𠽘	jtEFBCDskN
 𠿯	jtEuNBCsk
 𠲺	jtEuNAEN
 㵧	jsdGHDtT
@@ -20761,7 +20761,7 @@ use_preset_vocabulary: false
 𠵐	jtFioNtsGuN
 𣰵	jBDnkdEiuoN
 𨕀	jBkEioNTDsd
-𡐯	jtsEuNTCDtskFio
+𡐯	jtsEuNTBCDskFio
 𪵚	jBDnkdFuCskd
 𦬻	jABGoNBDk
 𠲟	jtFNDts
@@ -20788,7 +20788,7 @@ use_preset_vocabulary: false
 栍	jBCEoNT
 𫫑	jtEGNDtuo
 𢙲	jCtsdNBCsk
-㮩	jBCEFuoNCts
+㮩	jBCEFGuoCts
 𧛊	jBDndiuoAD
 𪰤	jADioBts
 𫅴	jBkdEGBtsEGu
@@ -20838,7 +20838,7 @@ use_preset_vocabulary: false
 𥈰	jCDskioskduN
 𠶑	jtEFHBtsk
 𥌫	jCDskFiBtsdFGuN
-𬳘	jBsdEFuoNAnuT
+𬳘	jBsdEFGuoAnuT
 𡄎	jtEiNBCtskFiuN
 𤝋	jDntFGiu
 𫤩	jCtkENCDkEFT
@@ -20860,7 +20860,7 @@ use_preset_vocabulary: false
 𩿨	jDtkdFHiT
 𪿱	jBdioTABntd
 挒	jDdECDnGN
-𨉠	jCDtskdEinskd
+𨉠	jBCDskdEinskd
 𢅬	jBCtskFiuNCDskduN
 𢥪	jCtsdiuoACdFiN
 𠌦	jCtFuoCtkEN
@@ -20876,7 +20876,7 @@ use_preset_vocabulary: false
 𬔔	jAkdFHADT
 㩃	jDdHutkEGH
 𢹆	jDdFGuBDFGuoN
-𥴚	jCdEFuoNsduo
+𥴚	jCdEFGuosduo
 𡃛	jtFGunskEGu
 𥰄	jCdGHCnN
 𧘪	jBDndGiNT
@@ -20887,7 +20887,7 @@ use_preset_vocabulary: false
 㕰	jtEGiuT
 𤹪	jABDkFoTtN
 𧧯	jBCkHTntd
-𪖫	jCDtskEGuNDsHuT
+𪖫	jBCDskEGuNDsHuT
 𢆨	jBCFiotsiuoT
 𪷔	jsdFuoTCDnEFT
 𥗏	jBduNTBCDo
@@ -20923,7 +20923,7 @@ use_preset_vocabulary: false
 𦟋	jnkFNABsN
 𨠵	jABCntHTntd
 𬩁	jBkuoBDtGN
-鎫	jDtdEFuoNtkFio
+鎫	jDtdEFGuotkFio
 𫤎	jCtEGDFo
 𫺎	jCtsduoNBCt
 𠅻	jABCkiotuT
@@ -21137,7 +21137,7 @@ use_preset_vocabulary: false
 𫩺	jtFGosEGH
 𥶱	jCdFGuoNBCsk
 𧐹	jBtkdGuoCDnEFT
-𩠓	jBsdEFuoNDsiT
+𩠓	jBsdEFGuoDsiT
 𦟿	jnkoNCtd
 𫥫	jBCsEFiBtskEuN
 𤗖	jCDtdEFoABntd
@@ -21255,7 +21255,7 @@ use_preset_vocabulary: false
 𬳨	jDtskEFu
 𡃚	jtGHutkoN
 𡍙	jtsGHCntkEF
-𩠭	jBsdEFuoNBCsEFi
+𩠭	jBsdEFGuoBCsEFi
 燶	jntkEHBtEiuNT
 𪶾	jsdFGNCtkEN
 𢆥	jskFuNDsEioN
@@ -21263,7 +21263,7 @@ use_preset_vocabulary: false
 𠳺	jtFGiut
 𢹩	jDdFuoNBCEFuo
 𫘼	jDnkGiTBDtkd
-𬧮	jCDtskdFuoCtkEN
+𬧮	jBCDskdFuoCtkEN
 𨭡	jDtdioBCnEFio
 橽	jBCGutsuoT
 𢢅	jCtsduoskuT
@@ -21298,7 +21298,7 @@ use_preset_vocabulary: false
 𦩛	jnsdEFiuotk
 㘙	jtNBCtdEiuz
 𬦄	jtsEFNBkdEFiuoT
-𬳙	jBsdEFuoNABkEGiuN
+𬳙	jBsdEFGuoABkEGiuN
 擃	jDdEHBtEiuNT
 𡓆	jCdGHoDtoN
 𫽎	jDdFNCDnEFT
@@ -21330,7 +21330,7 @@ use_preset_vocabulary: false
 鮉	jAnsdGiNt
 𫯡	jntEBsuo
 𬊴	jntkEGuNABDdEG
-𫗶	jBsdEFuoNBsFGH
+𫗶	jBsdEFGuoBsFGH
 𪟼	jCkENskduN
 𫢫	jCtEFGiuskdT
 𣹔	jsdGuCtkN
@@ -21346,7 +21346,7 @@ use_preset_vocabulary: false
 𧔙	jBtkdEHtkHiT
 𩯯	jDnkGiTtEGi
 𢲪	jDdoNACnsEF
-𬳛	jBsdEFuoNBtsEiu
+𬳛	jBsdEFGuoBtsEiu
 𡭻	jAnNTBntGuoN
 銊	jDtdEiuoD
 𣩂	jDdGTCDnEG
@@ -21450,7 +21450,7 @@ use_preset_vocabulary: false
 𠼦	jtEHABntEGu
 𦑗	jCnkdFHTBNT
 𨂔	jntsdFuBtkuT
-𥻢	jACDNCDtsk
+𥻢	jACDNBCDsk
 𩶱	jAnsdHuCGNT
 懢	jCtsdFioTCdGHiNT
 𢩪	jDdHi
@@ -21555,7 +21555,7 @@ use_preset_vocabulary: false
 𫥌	jABDEFGAB
 𬪐	jBsduNADFGN
 𫑾	jABCntFutFHiu
-𬧡	jCDtskdFutk
+𬧡	jBCDskdFutk
 㐌	jDsEHT
 𢞅	jCtsdGHuNTBts
 𬄅	jBCioADFH
@@ -21950,7 +21950,7 @@ use_preset_vocabulary: false
 𬗓	jCskGioCtkd
 𣈢	jADFGuosk
 𱘔	jtsFGNCDnEioN
-𩠧	jBsdEFuoNAN
+𩠧	jBsdEFGuoAN
 𬈤	jsdFGoBDEoNT
 𬑦	jCDskFGuoNBntEGi
 𫽗	jDdEFuNABntd
@@ -21987,7 +21987,7 @@ use_preset_vocabulary: false
 𫖀	jBdFGoNDFG
 𣋂	jADuoskuT
 𦄼	jCskGiTACnk
-𩠸	jBsdEFuoNCdEuoN
+𩠸	jBsdEFGuoCdEuoN
 𢫟	jDdFNtsd
 𪠿	jtFi
 𢩜	jCnkdFiuDsEio
@@ -22037,7 +22037,7 @@ use_preset_vocabulary: false
 𫒾	jDtdFuoCtkEN
 𡒻	jtsGTBnEFuoT
 𥴛	jCdFGCtd
-𫏱	jCDtskdENABntEH
+𫏱	jBCDskdENABntEH
 𣼷	jsdFHioBDt
 𣐝	jBCFoTCtkd
 𫖿	jCntkEFnskNT
@@ -22132,7 +22132,7 @@ use_preset_vocabulary: false
 𢫠	jDdEFGuBtk
 𡌽	jtsGHuDkN
 𪤲	jtsdFGoDnu
-𡃕	jtHiuCDtskdEFGu
+𡃕	jtHiuBCDskdEFGu
 𢲵	jDdGHADEH
 𨃴	jntsdFGuT
 𧅕	jABuTtkdHoT
@@ -22162,7 +22162,7 @@ use_preset_vocabulary: false
 𢤣	jCtsdFinkGN
 帀	jDFiuNz
 𣳡	jsdEiuo
-𧸺	jCDnskHiuCDtskdEFGu
+𧸺	jCDnskHiuBCDskdEFGu
 𣂃	jBkdEGHsk
 𣨭	jDEFTAkHiuT
 𩊽	jACsdiuNntFiuN
