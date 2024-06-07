@@ -3,7 +3,7 @@
 
 ---
 name: shintei
-version: "0.3.2"
+version: "0.3.3"
 use_preset_vocabulary: false
 ...
 
@@ -19693,7 +19693,7 @@ use_preset_vocabulary: false
 𡄨	jtEuNtGoN
 𪰓	jADEBsuo
 埁	jtsEuNsG
-𤳰	jBCsEGiuTBDtkdGuoNz
+𤳰	jBCsEGiuTBDtkGuoNz
 𫀥	jCkiuNskdEH
 𢜝	jCtsdFGHtEFu
 𦞍	jBCkuoDtEN
@@ -20624,7 +20624,7 @@ use_preset_vocabulary: false
 𩙍	jBntkENBtFoN
 𫐝	jABsdFGuABDntEN
 𧍈	jBtkdGHuDkN
-𡳒	jBCsEGiuTBDtkdGuoN
+𡳒	jBCsEGiuTBDtkGuoN
 𩂶	jCtskECDnGN
 𦾢	jABFGBCdT
 𩛜	jACDdFGiuABC
@@ -22267,20 +22267,20 @@ use_preset_vocabulary: false
 𪲝	jBCGHuBC
 練	jCskFGAD
 爛	jntkFuTBCEH
-蘭	jABFuTBCGHNT
+蘭	jABFuTBCEH
 欄	jBCFuTBCEH
 攔	jDdFuTBCEH
-瀾	jsdFuTBCGHNT
-闌	jCnkFGABnt
+瀾	jsdFuTBCEH
+闌	jCnkFGAD
 煉	jntkFGAD
-斕	jBCkdFuTBCGHNT
-讕	jBCkFuTBCGHNT
-鑭	jDtdFuTBCGHNT
+斕	jBCkdFuTBCEH
+讕	jBCkFuTBCEH
+鑭	jDtdFuTBCEH
 籣	jCdFuTBCEH
 灡	jsdGHBCEH
-襴	jBDndFuTBCGHNT
+襴	jBDndFuTBCEH
 暕	jADFGAD
-鰊	jAnsdFGABnt
+鰊	jAnsdFGAD
 鶫	jBCEHACnd
 朄	jACnsdFGAD
 瑓	jBCDFGAD
@@ -22291,21 +22291,21 @@ use_preset_vocabulary: false
 𫲴	jCDsGHBCEH
 𡄮	jtEiNBCEH
 𫇡	jnsdGHBCEH
-㘓	jtFuTBCGHNT
+㘓	jtFuTBCEH
 𢦂	jCtsdGHBCEH
 𠣂	jBCkFGADEGN
 㦨	jCtsdFuTBCEH
-囒	jtGHBCGHNT
+囒	jtGHBCEH
 䃹	jBdFuTBCEH
 𬵿	jAnsdGHBCEH
 𥈵	jCDskFGAD
 𫋨	jBtkdFGuBCEH
 𢒞	jBCEHBnd
-欗	jBCGHBCGHNT
+欗	jBCGHBCEH
 𢺤	jDdGHBCEH
 𩽥	jAnsdFuTBCEH
-誤	jBCkNDNT
-誤	jBCkNDNT
+誤	jBCkNnNT
+誤	jBCkNDuN
 虞	jABndNnNT
 虞	jABndNDuN
 蜈	jBtkdNnNT
@@ -22321,21 +22321,16 @@ use_preset_vocabulary: false
 𪽗	jBCsoBDtkdGuoN
 𤳰	jBCsEGiuTBDtkdGuoNz
 𡳒	jBCsEGiuTBDtkdGuoN
-鰩	jAnsdFGTDtsEuN
+鰩	jAnsdEFTDtsEuN
 徭	jBnkEFTDtsEuN
 傜	jCtEFTDtsEuN
 愮	jCtsdEFTDtsEuN
 颻	jCDnEoNDtkGuNT
 媱	jBtsEFTDtsEuN
 猺	jDntEFTDtsEuN
-𤁓	jsdEFGDtsEuN
-𤁠	jsdGuDtsEuN
-𩆍	jCtskioDtsEuN
 嗂	jtEFTDtsEuN
 䁘	jCDskEFTDtsEuN
-𩆡	jCtskGuDtsEuN
 𡏟	jtsEFTDtsEuN
-𩆋	jCtskEiDtsEuN
-謡	jBCkFGTDtsEuN
+謡	jBCkFGTskGuoN
 瑶	jBCDFGTskGuoN
 遥	jBkFGTskGuoN
