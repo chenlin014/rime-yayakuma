@@ -3,7 +3,7 @@
 
 ---
 name: shintei
-version: "0.3.6"
+version: "0.4.0"
 use_preset_vocabulary: false
 ...
 
@@ -888,7 +888,7 @@ use_preset_vocabulary: false
 精	jACDuoNnk
 瘦	jABDkEFiokEGu
 瘋	jABDkGuNT
-踩	jntsdGiuo
+踩	jntsdFGTBC
 槍	jBCENCnkdN
 誒	jBCkGuNDsd
 軟	jnsEiT
@@ -1685,7 +1685,7 @@ use_preset_vocabulary: false
 浴	jsduNDtN
 翼	jACnFHTskduN
 哲	jDdGTt
-涵	jsdGAndGuoN
+涵	jsdHisdGuoN
 鈣	jDtdEDkT
 菌	jABFGoNBsk
 敵	jCkGotEiu
@@ -1898,7 +1898,7 @@ use_preset_vocabulary: false
 卿	jCntsFCDkdGHT
 琪	jBCDFGi
 鶴	jBnsFiNACnd
-函	jBHiTBtsk
+函	jAdioBtsk
 確	jBdGoTCtd
 郡	jBCsdNBCt
 奈	jntFHiu
@@ -4042,7 +4042,7 @@ use_preset_vocabulary: false
 墉	jtsGHuCDkuT
 揖	jDdNBCtd
 攙	jDdETBDdo
-菡	jABGAndGuoN
+菡	jABHisdGuoN
 伎	jCtuoBDk
 脛	jnkEAnsFH
 愕	jCtsdNDHi
@@ -4566,7 +4566,7 @@ use_preset_vocabulary: false
 牲	jDtsEoNT
 氳	jDntsdFGoNDtGHiNT
 牒	jCDtdiuonFG
-戦	jBCnEHskEuo
+戦	jBCDtskEHskEuo
 漩	jsdFiuBFo
 殞	jDEFTtEFuoT
 玳	jBCDFNBCDkd
@@ -7515,7 +7515,7 @@ use_preset_vocabulary: false
 罽	jABntEuNTntkGN
 嶢	jDtkoNtsiNT
 崁	jDtkoNDnd
-崡	jDtkGAndGuoN
+崡	jDtkHisdGuoN
 牤	jDtsFGHu
 黧	jBskFTCDiuNT
 僸	jCtFGBCFHiu
@@ -11752,7 +11752,7 @@ use_preset_vocabulary: false
 恞	jCtsdNTBCDk
 涆	jsdEHDuo
 褅	jBDndFuBnsFiuN
-顄	jBHiTBtskEFuoN
+顄	jAdioBtskEFuoN
 鳭	jBtdFHiT
 翨	jACnFHTDFo
 跇	jntsdiuon
@@ -11772,7 +11772,7 @@ use_preset_vocabulary: false
 醥	jABCntGHuNTACkd
 軯	jnsEBsuo
 輷	jnsFTBCk
-蜬	jBtkdGAndGuoN
+蜬	jBtkdHisdGuoN
 踥	jntsdGHoBts
 鄵	jtNBCFGN
 睼	jCDskEHDFo
@@ -18500,7 +18500,7 @@ use_preset_vocabulary: false
 𤎛	jntkioCioN
 𣺾	jsdGHBtsN
 𢉾	jABkFiuoCskdEuN
-㮀	jBCGAndGuoN
+㮀	jBCHisdGuoN
 𨀕	jntsdFoTBCD
 䮴	jDtskEGiutGio
 𠽒	jtFGHiCDtsk
@@ -19999,7 +19999,7 @@ use_preset_vocabulary: false
 𨴦	jBDkuoNCnk
 𤟂	jDntdFuBtkuT
 檒	jBCFGBntk
-𨅰	jntsdEiAndE
+𨅰	jntsdFGBDkE
 𠻉	jtGuCntd
 𤔷	jAFBCnEFu
 𮬩	jCtsdFHiT
@@ -22115,7 +22115,7 @@ use_preset_vocabulary: false
 𤾔	jBCtskGHBnsFG
 𦢩	jnkGHCDtdGiuoN
 𲇣	jDtdGHCnEFH
-𫧦	jCkFiuoDsu
+𫧦	jCkFiuoDnu
 𭉩	jtFNABsN
 𫊴	jBtkdEiCGNT
 𠁔	jBsdEGiNBDtkdHi
@@ -22542,6 +22542,68 @@ use_preset_vocabulary: false
 𪡇	jtFNDsHT
 䟢	jntsdEoAn
 𥙧	jACkTDsHT
+𬎽	jnkdEok
+𬪽	jCntEHDsu
+𫎑	jCDnskEok
+𪝪	jCtGDsu
+𬨻	jBkFGDsu
+𪥾	jBtsGiDsu
+𫢖	jCtHDsu
+𪸄	jsdFioTDsu
+𬞮	jABGuDsu
+𫎚	jABntEFuoTDsu
+𬢞	jBCkEok
+𬂆	jsEFiuDsu
+𫕸	jtskuTDsu
+𬌣	jDtsoNDsu
+𪰰	jADoNDsu
+𪲣	jABdFGDsu
+𫁞	jABsEok
+𪯊	jBtskEiuDsu
+𬕺	jCdGHoDsu
+𪫶	jDtoDsu
+𪮯	jDdNDsu
+𪝱	jCtEuNDsu
+𬕳	jCdEuoNDsu
+𫋶	jBDndGiNDsu
+𪰇	jADEok
+𩵜	jAnsdEok
+𬪄	jBtdEFDsu
+𫶜	jDtkFuDsu
+𬋱	jBCnFDsu
+𬋫	jBCnEDsu
+𬐸	jABndEGuNDsu
+𪶏	jsdoNDsu
+𫴬	jBCkdFGHDsu
+𬂨	jBCFGHDsu
+𪡉	jtFGuoDsu
+𬬃	jDtdFGuoNDsu
+𪩬	jADndEok
+𪬫	jABsEHDsu
+𪣱	jtsGHoDsu
+𫡔	jDsuDkT
+𫧣	jskFuNDsu
+𬋆	jntkFGDsu
+𬎻	jBCkdEuNTDsu
+𪫓	jBnkEFuDsu
+𪿸	jBdGiDsu
+𬆒	jDEFTDsu
+𪱕	jADFGiNDsu
+𪟳	jDsuoDsu
+𪠉	jDntkFoDsu
+𬑅	jCDskEok
+𪥯	jDsuBtsEGu
+𫆡	jCkGuNDsu
+𪞀	jAniNTDsu
+𫉼	jABGHNTDsu
+𪾆	jACsEok
+𪡍	jBCkdNDsu
+𬓗	jACkEFuDsu
+𬖩	jACDEFTDsu
+𪤸	jCDnEuDsu
+𫡐	jAFDsu
+𫧦	jCkFiuoDsu
+𪤲	jtsdFGoDsu
 類	jACDNTCDtsk
 臭	jBCDskNT
 突	jAkdNT
