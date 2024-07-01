@@ -16,6 +16,14 @@ one_two_brief:
       - "xform/^([A-Za-ux-z]+)v$/j$1/"
       - "xform/^([A-Za-ux-z]+)wv$/j$1v /"
 
+one_brief_two:
+  chord_composer/+:
+    output_format:
+      - "xform/^([A-Za-ux-z]+)$/$1 /"
+      - "xform/^([A-Za-ux-z]+)w$/j$1 /"
+      - "xform/^([A-Za-ux-z]+)v$/j$1v /"
+      - "xform/^([A-Za-ux-z]+)wv$/j$1/"
+
 kana_switch:
   chord_composer/algebra/+:
     - xform|^w$|\r|
