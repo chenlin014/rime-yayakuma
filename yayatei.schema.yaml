@@ -84,5 +84,6 @@ __patch:
   #- yayatei-options:/use_dvorak_layout
   #- yayatei-options:/use_colemak_layout
   - yayatei-options:/one_two_brief
+  #- yayatei-options:/one_brief_two
   - yayatei-options:/kana_switch
   - yayatei-options:/punc_chord
