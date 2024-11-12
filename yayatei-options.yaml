@@ -26,7 +26,7 @@ one_brief_two:
 
 kana_switch:
   chord_composer/algebra/+:
-    - xform|^w$|\r|
+    - xform|^d$|\r|
   key_binder/bindings/+:
     - { when: always, accept: "\r", toggle: katakana }
 
