@@ -2,11 +2,11 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: "yhqwerasdfvuiopnjkl;tgcm"
+    alphabet: "qwertgasdfvuiop;njkyhlcm"
     algebra:
-      - xlit|qweruiopasdfvnjkl;tgyhcm|ABCDEFGHntskdiuoNTzzaawv|
-      - xform|zz|z|
-      - xform|aa|a|
+      - xlit|qweruiopasdfvnjkl;tgyhcm|ABCDEFGHntskdiuoNaTTccwv|
+      - xform|TT|T|
+      - xform|cc|c|
 
 one_two_brief:
   chord_composer/+:
