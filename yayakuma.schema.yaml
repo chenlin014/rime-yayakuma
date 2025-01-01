@@ -2,13 +2,13 @@
 # encoding: utf-8
 
 schema:
-  schema_id: yayatei
-  name: やや鄭
+  schema_id: yayakuma
+  name: やや熊
   version: '0.0'
   author:
     - 陳林 <1chen0bryan@gmail.com>
   description: |
-    ややかなと新鄭漢字入力方法
+    ややかなと有熊漢字入力方法
 
 switches:
   - name: ascii_mode
@@ -66,7 +66,7 @@ speller:
   auto_select_unique_candidate: false
 
 translator:
-  dictionary: yayatei
+  dictionary: yayakuma
   enable_user_dict: false
 
 punctuator:
@@ -80,10 +80,10 @@ recognizer:
 
 __patch:
   # キー配列
-  - yayatei-options:/use_qwerty_layout
-  #- yayatei-options:/use_dvorak_layout
-  #- yayatei-options:/use_colemak_layout
-  - yayatei-options:/one_two_brief
-  #- yayatei-options:/one_brief_two
-  - yayatei-options:/kana_switch
-  - yayatei-options:/punc_chord
+  - yayakuma-options:/use_qwerty_layout
+  #- yayakuma-options:/use_dvorak_layout
+  #- yayakuma-options:/use_colemak_layout
+  - yayakuma-options:/one_two_brief
+  #- yayakuma-options:/one_brief_two
+  - yayakuma-options:/kana_switch
+  - yayakuma-options:/punc_chord
