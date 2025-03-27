@@ -2,31 +2,47 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: "qwertgasdfvuiop;njkyhlcm"
+    alphabet: "qawsedrftgvp;olikujyhncm"
     algebra:
-      - xlit|qweruiopasdfvnjkl;tgyhcm|ABCDEFGHntskdiuoNaTTccwv|
-      - xform|TT|T|
-      - xform|cc|c|
+      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdeeEEDCBAghijJIHGwsSv|
+      - xform|ee|e|
+      - xform|EE|E|
+
+use_dvorak_layout:
+  chord_composer/+:
+    alphabet: "'a,o.epuyiklsrnctghfdbjm"
+    algebra:
+      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdeeEEDCBAghijJIHGwsSv|
+      - xform|ee|e|
+      - xform|EE|E|
+
+use_colemak_layout:
+  chord_composer/+:
+    alphabet: "qawrfsptgdv;oyiuelnjhkcm"
+    algebra:
+      - xlit|qwfpgdjhluy;arstneiocvkm|abcdeeEEDCBAghijJIHGwsSv|
+      - xform|ee|e|
+      - xform|EE|E|
 
 one_two_brief:
   chord_composer/+:
     output_format:
-      - "xform/^([A-Za-ux-z]+)$/$1 /"
-      - "xform/^([A-Za-ux-z]+)w$/j$1 /"
-      - "xform/^([A-Za-ux-z]+)v$/j$1/"
-      - "xform/^([A-Za-ux-z]+)wv$/j$1v /"
+      - "xform/^([a-uA-U]+)$/$1 /"
+      - "xform/^([a-uA-U]+)w$/j$1 /"
+      - "xform/^([a-uA-U]+)v$/j$1/"
+      - "xform/^([a-uA-U]+)wv$/j$1v /"
 
 one_brief_two:
   chord_composer/+:
     output_format:
-      - "xform/^([A-Za-ux-z]+)$/$1 /"
-      - "xform/^([A-Za-ux-z]+)w$/j$1 /"
-      - "xform/^([A-Za-ux-z]+)v$/j$1v /"
-      - "xform/^([A-Za-ux-z]+)wv$/j$1/"
+      - "xform/^([a-uA-U]+)$/$1 /"
+      - "xform/^([a-uA-U]+)w$/j$1 /"
+      - "xform/^([a-uA-U]+)v$/j$1v /"
+      - "xform/^([a-uA-U]+)wv$/j$1/"
 
 kana_switch:
   chord_composer/algebra/+:
-    - xform|^d$|\r|
+    - xform|^s$|\r|
   key_binder/bindings/+:
     - { when: always, accept: "\r", toggle: katakana }
 
